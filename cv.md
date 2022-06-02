@@ -15,3 +15,12 @@ I work at a state-owned enterprise, which is associated with orders of a _defens
 ## Education
  * Technical College (Mechatronics)
  * RS School “JavaScript/Front-end. Stage 0” course (in progress)
+ ---
+## Skills
+* HTML (low)
+* CSS (low)
+* Git (basics)
+---
+## Languages
+* English level – A1+
+* Russian - native
